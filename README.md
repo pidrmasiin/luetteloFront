@@ -4,4 +4,4 @@ Sovellus lisää henkilöitä tietokantaan, mikäli saman nimistä henkilöä ei
 
 * [Linkki backendiin](https://github.com/pidrmasiin/luetteloBackend)
 
-# luetteloFront
+
